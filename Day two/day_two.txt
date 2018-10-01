@@ -1,0 +1,43 @@
+Dia dos :
+
+explicar mas sobre el CMD
+type (en el CMD type segido del nombre de un archivo txt
+que esta en la misma carpeta, sirve para leer dicho archivo)
+
+Para ejecutar un archovo .py 
+se ubica el archivo en el cmd y se pone
+Python nombre_del_archivo.py
+
+para ubicar una carpeta
+se escribe cd
+y se copia la direccion de la carpeta a llegar.
+
+
+
+tipos de variables / tipado dinammico
+string = "string" // variables de texto
+int = numero 
+type() //sirve para conocer el tipo de variabled
+operadores logicos
+
+
+True and False
+False
+
+>>> True and True
+True
+
+>>> False and True
+False
+
+>>> False or True
+True
+
+>>> False or False
+False
+
+
+input() // es para que el usario escriba un valor sin tocar codigo
+
+cuando una varible se guarda en un input
+aunque escribas un numero, python lo guarda como string
