@@ -1,0 +1,114 @@
+﻿Introduccion a la programacion
+¿porque programar?
+
+porque estan ustedes en este curso ?
+----
+aprender a programar es una de las cosas que todos deberiamos hacer, no importa si estudiamos 
+mecatronica o quimica,
+ademas de que el ecosistema que actualmente rodea a la industria tecno es muy bonito, quienes sean
+miembros IEEE saben de que hablo. 
+
+
+
+-Si alguno es de sistemas esta familiarizado con la programacion como una carrera
+pero acutalmente esta siendo mas una estilo de vida, una revolucion, y no estoy exagarendo,
+En nueva York un ingenerio en sistemas de 23 años llamado Patrick McConlogue, que cuando se dirigia a su trabajo, encontro a un bagabundo cargando una cadenas
+para "hacer ejercicio", su nombre es Leo, entonces Patrick dedice ofrecerle mas que una simple ayuda.
+le hace la pregunta ¿100 dolares o 16 clases de programación gratis de una hora cada una con el fin de conseguirle una salida laboral?
+ante todo pronostico el bagabundo eligio las clases
+Patrick le dio la computadora de segunda mano mas barata que encontro y 3 libros para que se prepara
+al final de su curso, el cual le costo demasiado a Patrick, tuvo que hacer algo aun mas dificil
+desarrollar una app que haga un mundo mejor, lo que el indigiente creo se llama Trees for cars, una aplicacion para que conductores entren en contacto con 
+otras personas que iran por la misma ruta, con el fin de ahorra combustible
+y contaminar menos, se puso a la venta en las tiendas de Apple y android por en .99 euros, con 15,000 fue un exito.
+actualmente Leo se encuentra de nuevo en la escuela y aprendiendo para hacer 
+programando despues de todo	"programar es divertido"
+
+aunque varia segun del sistema escolar, por poner un ejemplo un plan de estudios puede cambiar cada 4 años
+
+en la industria del software tenemos que actualizarnos maximo cada 6 meses
+
+Alto!!!
+no dejen de la universidad aun!
+ir a la universidad tiene sus ventajas las cuales no es el punto nombrar aquí.
+
+
+¿porque ocupar python?
+
+interpretado, requiere un interprete que es un programa que traduce linea tras linea
+
+compilador requiere un compilador
+
+cmd
+
+
+instalacion y configuracion python 3
+manejo de sumblime text
+hola mundo
+
+
+
+
+------------------------------------------------
+
+conceptos basicos
+algoritmos
+la sucesion de Gauss, es un ejemplo de algortimos, que es basicamente de lo que se compone la programación
+¿Les gustan las matematicas? porque programar es muy parecido, 
+La leyenda cuenta que Gauss que cuando era morro, un maestro puso un ejercicio a sus alumnos, sumar todos los numeros que hay del 1 al 100 
+1+2 = 3,
+3+3=6, 4 + 6 = 10, etc etc
+para seria un ejercicio sumplicado, pero Gauss, encontro una manera mas sensilla de resolver las cosas
+
+Resulta que Gauss se dio cuenta que la suma de los numeros se complementaba de esta manera 
+1+100= 101, 2 + 99= 101, 3 + 98 = 101,..... 50 + 51 = 101.
+entonces ya era mas facil conocer la suma
+si se suman de 2 en 2 numeros entonces hay total de 50 sumas, y si todas las sumas dan 101
+solo se tiene que multiplicar
+50*101
+asi que la formula para resolver esta clase de sucesiones
+seria primer numero de la sucesion + ultimo numero de la sucesion / (ultimo numero de la sucesion/2)
+
+¿facil no?, bueno, claro que es mas facil aplicar esa formula que hacer tooooodaaa la suma, numero por numero
+el problema esta en encontrar la formula
+esto de la logica, las matematicas y la programación es para los flojos, siempre tenemos que encontrar una manera de como evitar hacer las cosas de una menera larga y tediosa. 
+arreglar problemas con matematicas y logica es lo que hace un programador.
+
+como se dijo ya antes, programador no es un trabajo, es una forma de vida. 
+esta filosofia de hacer todo de la manera mas complicadamente facil, no se refleja solo en la codificación
+tambien en la manera misma de trabajar, actualmente, existen algunos "algortimos" o mejor conocidos
+metodologias, 
+exiten diferentes tipos de metodologias ya hechas que nos ayudaran en la creacion de proyectos,
+daremos los ejemplos mas importantes, que ustedes deben de conocer. 
+
+la metologia de cascada, es quisa el metodo "tradicional" detrabajo fuera de esta industria, 
+
+los pasos a seguir acá son muy rigidos, en el sentido de que no se puede pasar a un paso si no se 
+completado el anterior al 100%, y obviamente no puedes regresar, 
+un ejemplo, seria un sistema de una escuela que requiere llevar el control los los alumnos inscritos
+lo que el o los desarrolladores necesitan son los requirimientos del cliente, para empezar a diseñar la arquitecura que seria mejor, empezar a programar, verificar y correguir errores, 
+y despues dar manteniento si es necesario, sin posibilidades de la que la escuela a medio proceso les pida que le agregan mas cosas de las que ya le  habian pedido, 
+o de que durante la implementacion se cambie la arquitectura por una mejor, es por eso que antes de dar cada
+paso, se debe asegurar que es lo mejor.
+util para sirve para cuando se requiere un programa muy especifico, 
+
+otra importante es la espiral
+sus pasos se repiten en circulo pero cada vez con menos errores, es lo mas paresido a "prueba y error", 
+pero no exactamente....
+con la metodologia espiral es perfecto para proyectos "nuevos" donde los problemas no estan bien definidos
+y los posibles errores aun no son conocidos, despues de un diseño y de probar como funcina, se vuelve a diseñar para encontrar otro posible diseño con mejoras.
+
+la metodologia de protitipo es mi favorita
+consiste en hacer el minimo producto entregable, en hacerlo de la forma mas rapida, no es como tal para un proyecto final
+mas bien es para como su nombre lo dice, prototipado suele ser muy desgastante y es lo que se hace en esos eventos llamados hackatones
+han escuchado hablar sobre esos eventos ?
+basicamente se pone un reto, y programadores en equipos buscan una manera de solucionar ese problema, la cuestion, es que muchas veces es imposible desarrollar una solucion en el tiempo indicado
+asi que mas bien, tienen que plasmar su idea y que se demuestre que funcione. 
+en eso consiste esta metodologia
+
+pero actualmente la mas utilizada es la scrum
+es muy parecido a la espiral, pero es con la participacion constante y directa del cliente, 
+quien en muchas ocaciones tiene que cambiar sus requirimientos o no sabe exactamente que es lo que quiere
+pero tiene necesidad que cubrir, entonces muchas veces se siente que cambiar de rumbo en el proyecto
+o nuevos requirimientos del cliente,
+si hablamos de resultados, se puede decir que es la mejor, ya que logra cubrir, exactamente los requirimientos.
